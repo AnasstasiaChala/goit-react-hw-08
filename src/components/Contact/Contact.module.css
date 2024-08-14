@@ -1,0 +1,14 @@
+.person {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.personName,
+.personNumber {
+  display: flex;
+  gap: 5px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #14084b;
+}

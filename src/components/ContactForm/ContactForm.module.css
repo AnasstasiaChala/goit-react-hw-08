@@ -1,0 +1,22 @@
+.form {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #000;
+}
+
+.button {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #bac4d394;
+  border: 2px solid #14084b;
+  border-radius: 6px;
+  color: #03174d;
+  font-weight: 600;
+  box-shadow: 2px 2px 2px #14085894;
+}
+
+.error {
+  color: orange;
+}

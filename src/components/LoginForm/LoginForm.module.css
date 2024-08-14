@@ -1,0 +1,23 @@
+.form {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border: 1px solid #14084b;
+}
+
+.button {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #e9e6f7;
+  border: 2px solid #14084b;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #14084b;
+  box-shadow: 2px 2px 2px #07024b94;
+}
+
+.error {
+  color: orange;
+}
